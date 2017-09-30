@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: optimgaika
+Version: 1.0.2
+Summary: Optimgaika image compressor - A cross-platform tool for optimizing PNG and JPG files
+Home-page: http://optimgaika.org
+Author: Kilian Valkhof, Paul Chaplin
+Author-email: help@optimgaika.org
+License: MIT license
+Description: Optimgaika is a cross-platform GUI and command-line interface to optimize image files via optipng, advpng and guetzli, depending on the filetype (currently, PNG and JPG files are supported). It was inspired by imageoptim. All image files are losslessy compressed on the highest available compression levels. Optimgaika gives you various input functions to fit your own workflow: A regular file dialog, dragging and dropping and various command line options.
+Platform: UNKNOWN
+Requires: PyQt4 (>=4.4)

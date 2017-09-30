@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Optimgaika image compressor
+Name[ru]=Программа для уменьшения веса картинок Optimgaika
+Comment=A cross-platform tool for optimizing PNG and JPG files
+Comment[ru]=Кросс-платформенная утилита для оптимизации файлов PNG и JPG
+Terminal=false
+Icon=optimgaika
+Type=Application
+Exec=optimgaika
+Categories=Application;Qt;Graphics;
+StartupNotify=true
+

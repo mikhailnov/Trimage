@@ -2,4 +2,15 @@
 MANIFEST
 dist/
 build/
+# exclude everything except directory foo/bar
+debian/*
+!debian/changelog
+!debian/compat
+!debian/control
+!debian/copyright
+!debian/docs
+!debian/pycompat
+!debian/rules
+!debian/source/format
+*.directory
 
