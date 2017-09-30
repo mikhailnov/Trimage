@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
  <author>Kilian Valkhof</author>
- <class>trimage</class>
- <widget class="QMainWindow" name="trimage">
+ <class>optimgaika</class>
+ <widget class="QMainWindow" name="optimgaika">
   <property name="geometry">
    <rect>
     <x>0</x>
@@ -12,7 +12,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Trimage image compressor</string>
+   <string>Optimgaika image compressor</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <layout class="QGridLayout" name="gridLayout_2">

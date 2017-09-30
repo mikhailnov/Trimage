@@ -1,3 +1,11 @@
+optimgaika (1.2) xenial; urgency=medium
+
+  * The original author of trimage decided to not merge my pull request (https://github.com/Kilian/Optimgaika/pull/44), so I am forking Optimgaika and naming the fork as optimgaika (оптимгайка)
+  * This is the first version after renaming the fork
+  * Bumping version from 1.1 to 1.2
+
+ -- Mikhail Novosyolov <mikhailnov@dumalogiya.ru>  Sat, 30 Sep 2017 15:20:00 +0300
+ 
 trimage (1.1) xenial; urgency=medium
 
   * change jpegoptim to guetzli
@@ -62,7 +70,7 @@ trimage (1.0.0b3-0ubuntu1) jaunty; urgency=low
 
   * better image filetype determination
   * use unicode strings everywhere
-  * fix bug where Trimage would crash if a directory didn't end in a slash
+  * fix bug where Optimgaika would crash if a directory didn't end in a slash
   * avoid a segfault when parsing empty directories
   * ../../debian/changelog
  -- Kilian Valkhof <kilian@kdesktop>   Mon, 29 Mar 2010 13:08:18 +0200
@@ -75,6 +83,6 @@ trimage (1.0.0b2-0ubuntu1) jaunty; urgency=low
 
 trimage (1.0.0b-0ubuntu1) jaunty; urgency=low
 
-  * Trimage image compressor
+  * Optimgaika image compressor
  -- Kilian Valkhof <help@trimage.org>   Tue, 23 Mar 2010 20:18:17 +0100
 
