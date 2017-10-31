@@ -1,3 +1,9 @@
+optimgaika (1.2.1) xenial; urgency=medium
+
+  * Minor fix: fix program version and authors in setup.py
+
+ -- Mikhail Novosyolov <mikhailnov@dumalogiya.ru>  Sat, 30 Sep 2017 15:20:00 +0300
+ 
 optimgaika (1.2) xenial; urgency=medium
 
   * The original author of trimage decided to not merge my pull request (https://github.com/Kilian/Optimgaika/pull/44), so I am forking Optimgaika and naming the fork as optimgaika (оптимгайка)
