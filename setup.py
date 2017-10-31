@@ -9,11 +9,11 @@ if win:
 from distutils.core import setup
 
 setup(name = "optimgaika",
-    version = "1.0.2",
+    version = "1.2",
     description = "Optimgaika image compressor - A cross-platform tool for optimizing PNG and JPG files",
-    author = "Kilian Valkhof, Paul Chaplin",
-    author_email = "help@optimgaika.org",
-    url = "http://optimgaika.org",
+    author = "Mikhail Novosyolov, Kilian Valkhof, Paul Chaplin",
+    author_email = "mikhailnov@dumalogiya.ru",
+    url = "http://nixtux.ru",
     license = "MIT license",
     package_dir = {'optimgaika' : 'src/optimgaika'},
     packages = ["optimgaika",
