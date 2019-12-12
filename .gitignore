@@ -12,5 +12,7 @@ debian/*
 !debian/pycompat
 !debian/rules
 !debian/source/format
+!debian/source
+!debian/build-ppa.sh
 *.directory
 

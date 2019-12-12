@@ -1,3 +1,9 @@
+optimgaika (1.2.1-2) unstable; urgency=medium
+
+  * Fresh rebuild in PPA
+
+ -- Mikhail Novosyolov <mikhailnov@dumalogiya.ru>  Thu, 12 Dec 2019 15:05:10 +0300
+
 optimgaika (1.2.1) xenial; urgency=medium
 
   * Minor fix: fix program version and authors in setup.py
